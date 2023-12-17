@@ -1,12 +1,12 @@
-- name: "ArcoLinux Meta Packages"
-  description: "ArcoLinux meta packages"
+- name: "Network Scan"
+  description: "Snigdha OS Network Scanning Tools"
   critical: false
   hidden: false
   selected: false
   expanded: true
   packages:
-    - arcolinux-meta-arc-theme
-    - arcolinux-meta-asian-fonts
+    - nmap
+    - zenmap
     - arcolinux-meta-fun
     - arcolinux-meta-log
     - arcolinux-meta-samba
