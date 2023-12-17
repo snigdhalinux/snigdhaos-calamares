@@ -24,19 +24,6 @@
     - nvidia-dkms
     - nvidia-settings
     - nvidia-utils
-- name: "Nvidia-dkms for linux-hardened kernel"
-  description: "Installs nvidia-dkms for linux-hardened kernel"
-  critical: false
-  hidden: false
-  selected: false
-  immutable: false
-  expanded: false
-  packages:
-    - linux-hardened
-    - linux-hardened-headers
-    - nvidia-dkms
-    - nvidia-settings
-    - nvidia-utils
 - name: "Nvidia-dkms for linux-zen kernel"
   description: "Installs nvidia-dkms for linux-zen kernel"
   critical: false
