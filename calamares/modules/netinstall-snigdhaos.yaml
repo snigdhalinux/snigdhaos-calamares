@@ -1,5 +1,5 @@
-- name: "Network Scan"
-  description: "Snigdha OS Network Scanning Tools"
+- name: "Information Gathering"
+  description: "Snigdha OS Information Gathering Tools"
   critical: false
   hidden: false
   selected: false
@@ -7,9 +7,9 @@
   packages:
     - nmap
     - zenmap
-    - arcolinux-meta-fun
-    - arcolinux-meta-log
-    - arcolinux-meta-samba
+    - vulscan-git
+    - whois-git
+    - dnsenum
     - arcolinux-meta-sddm-themes
     - arcolinux-meta-steam-amd
     - arcolinux-meta-steam-intel
