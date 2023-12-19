@@ -5,23 +5,16 @@
   selected: false
   expanded: true
   packages:
-    - cheese
     - font-manager-git
-    - galculator
-    - gpick
     - flameshot-git
-    - liferea
-    - mediainfo-gui
-    - mcomix
+    - mediainfo-gui-qt
     - nitrogen
     - nomacs
     - nomacs-git
     - nomacs-qt6-git
-    - pdfarranger
-    - plank
-    - arcolinux-plank-themes-git
+    - pdfarranger-git
     - screenkey-git
-    - variety
+    - variety-git
 - name: "Conky"
   description: "Conky and conky collection"
   critical: false
@@ -29,9 +22,13 @@
   selected: false
   expanded: true
   packages:
-    - arcolinux-conky-collection-git
-    - arcolinux-pipemenus-git
+    - conky-git
+    - conky-lua-nv
     - conky-lua-archers
+    - conky-colors-git
+    - corky
+    - conkywx
+    - conky-bargile
     - yad
 - name: "Git"
   description: "Git applications"
@@ -41,7 +38,7 @@
   expanded: true
   packages:
     - gitahead
-    - gitg
+    - gitg-git
     - gitfiend
     - github-desktop-bin
     - gitkraken
