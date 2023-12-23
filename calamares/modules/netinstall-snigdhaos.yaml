@@ -1,22 +1,38 @@
-- name: "Information Gathering"
-  description: "Snigdha OS Information Gathering Tools"
+- name: "Snigdha OS - Theme Collection"
+  description: "Snigdha OS Themes"
   critical: false
   hidden: false
   selected: false
   expanded: true
   packages:
-    - nmap
-    - zenmap
-    - vulscan-git
-    - whois-git
-    - dnsenum
-    - arcolinux-meta-sddm-themes
-    - arcolinux-meta-steam-amd
-    - arcolinux-meta-steam-intel
-    - arcolinux-meta-steam-nvidia
-    - arcolinux-meta-utilities
-    - arcolinux-meta-wine
-- name: "ArcoLinux Applications"
+    - arc-gtk-theme-git
+    - arc-solid-gtk-theme-git
+    - canta-gtk-theme
+    - catppuccin-gtk-theme-frappe
+    - catppuccin-gtk-theme-latte
+    - catppuccin-gtk-theme-mocha
+    - colloid-gtk-theme-git
+    - dracula-gtk-theme-git
+    - everforest-gtk-theme-git
+    - evopop-gtk-theme-git
+    - fluent-gtk-theme-git
+    - graphite-gtk-theme-git
+    - gruvbox-material-gtk-theme-git
+    - gtk-theme-elementary-git
+    - gtk-theme-windows10-dark-git
+    - kanagawa-gtk-theme-git
+    - layan-gtk-theme-git
+    - matcha-gtk-theme-git
+    - material-gtk-theme-git
+    - mojave-gtk-theme-git
+    - pop-gtk-theme-git
+    - qogir-gtk-theme-git
+    - sweet-gtk-theme
+    - sweet-gtk-theme-dark
+    - vimix-gtk-themes-git
+    - whitesur-gtk-theme-git
+    - yaru-gtk-theme
+- name: "Snigdha OS - Icons"
   description: "ArcoLinux applications"
   critical: false
   hidden: false
