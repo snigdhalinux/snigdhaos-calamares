@@ -1,0 +1,14 @@
+- name: "ArcoLinux Dev"
+  description: "Software for ArcoLinux developers and betatesters"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - chromium
+    - flameshot-git
+    - gimp
+    - inkscape
+    - vivaldi
+    - vivaldi-ffmpeg-codecs
+    - vivaldi-widevine
