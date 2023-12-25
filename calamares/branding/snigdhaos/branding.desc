@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         ArcoLinux
-    shortProductName:    ArcoLinux
-    version:             3.0
-    shortVersion:        3.0
-    versionedName:       ArcoLinux
-    shortVersionedName:  ArcoLinux
-    bootloaderEntryName: ArcoLinux
+    productName:         SnigdhaOS
+    shortProductName:    SnigdhaOS
+    version:             2.0
+    shortVersion:        2.0
+    versionedName:       SnigdhaOS
+    shortVersionedName:  SnigdhaOS
+    bootloaderEntryName: SnigdhaOS
 #    productUrl:          https://arcolinux.info/
 #    supportUrl:          https://arcolinuxforum.com/
 #    knownIssuesUrl:      https://arcolinux.info/
