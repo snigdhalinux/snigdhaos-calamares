@@ -121,18 +121,18 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         SnigdhaOS
-    shortProductName:    SnigdhaOS
+    productName:         Snigdha OS
+    shortProductName:    Snigdha OS
     version:             2.0
     shortVersion:        2.0
-    versionedName:       SnigdhaOS
-    shortVersionedName:  SnigdhaOS
-    bootloaderEntryName: SnigdhaOS
-#    productUrl:          https://arcolinux.info/
-#    supportUrl:          https://arcolinuxforum.com/
-#    knownIssuesUrl:      https://arcolinux.info/
-#    releaseNotesUrl:     https://arcolinux.info/arcolinux-editions/
-#    donateUrl:           https://kde.org/community/donations/index.php
+    versionedName:       Snigdha OS Hawkeye
+    shortVersionedName:  Hawkeye
+    bootloaderEntryName: snigdhaos
+#    productUrl:          https://snigdhalinux.github.io/
+#    supportUrl:          https://snigdhalinux.github.io/
+#    knownIssuesUrl:      https://snigdhalinux.github.io/
+#    releaseNotesUrl:     https://snigdhalinux.github.io/
+#    donateUrl:           https://snigdhalinux.github.io/
 
 # These images are loaded from the branding module directory.
 #
