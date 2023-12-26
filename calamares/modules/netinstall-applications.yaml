@@ -1,12 +1,11 @@
-- name: "Accessories"
+- name: "Snigdha OS - Accessories"
   description: "Accessories"
   critical: false
   hidden: false
   selected: false
   expanded: true
   packages:
-    - cheese
-    - font-manager-git
+    - cheese-git
     - galculator
     - gpick
     - flameshot-git
