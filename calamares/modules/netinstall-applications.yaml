@@ -6,7 +6,7 @@
   expanded: true
   packages:
     - cheese-git
-    - galculator
+    - galculator-gtk2
     - gpick
     - flameshot-git
     - liferea
