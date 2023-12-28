@@ -1,4 +1,4 @@
-- name: "Snigdha OS - Accessories"
+- name: "Accessories"
   description: "Accessories"
   critical: false
   hidden: false
@@ -18,18 +18,15 @@
     - nomacs-qt6-git
     - pdfarranger
     - plank
-    - arcolinux-plank-themes-git
     - screenkey-git
     - variety
 - name: "Conky"
-  description: "Conky and conky collection"
+  description: "Conky"
   critical: false
   hidden: false
   selected: false
   expanded: true
   packages:
-    - arcolinux-conky-collection-git
-    - arcolinux-pipemenus-git
     - conky-lua-archers
     - yad
 - name: "Git"
@@ -40,6 +37,10 @@
   expanded: true
   packages:
     - gitahead
+    - gittyup
+    - gcli
+    - gitlab-cli
+    - git-open
     - gitg
     - gitfiend
     - github-desktop-bin
@@ -51,10 +52,18 @@
   selected: false
   expanded: true
   packages:
+    - revelation
+    - keeweb-desktop-bin
+    - bitwarden-cli-bin
+    - goldwarden
+    - bws-bin
+    - bitwarden-ssh-agent-git
+    - bitw-git
     - bitwarden
     - enpass-bin
     - keepassxc
     - lastpass
+    - lastpass-pocket
 - name: "Privacy"
   description: "Applications that ensure your privacy"
   critical: false
