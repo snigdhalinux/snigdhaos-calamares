@@ -1,5 +1,5 @@
-- name: "ArcoLinux Dev"
-  description: "Software for ArcoLinux developers and betatesters"
+- name: "Snigdha OS Dev"
+  description: "Software for Snigdha OS developers and betatesters"
   critical: false
   hidden: false
   selected: false
@@ -9,6 +9,7 @@
     - discord
     - flameshot-git
     - gitahead
+    - github-desktop
     - meld
     - simplescreenrecorder
     - sublime-text-4
@@ -16,3 +17,4 @@
     - vivaldi
     - vivaldi-ffmpeg-codecs
     - vivaldi-widevine
+    - visual-studio-code-bin
