@@ -33,7 +33,7 @@ Use gammaray
 }
 
 #mainText{
-	font : bold 16px;
+	font : bold 14px;
 }
 
 #sidebarApp {
@@ -49,7 +49,7 @@ Use gammaray
 }
 
 QWidget {
-	font: 16px;
+	font: 14px;
 }
 
 QTextEdit, QListView {
@@ -99,14 +99,14 @@ QListWidget::item:alternate {
 
 QToolTip {
 	background-color: #58B2D7;
-  font : 16px;
+  font : 14px;
 	color: white;
 	padding: 3px;
 	border: none;
 }
 
 QPushButton {
-    font : 16px;
+    font : 14px;
 }
 
 QDialogButtonBox {
@@ -145,7 +145,7 @@ QScrollBar::add-line:vertical {
 /* ########## QLIST VIEW ########## */
 
 QListView {
-		font: 16px;
+		font: 14px;
 }
 
 QListView::item:alternate {
@@ -188,31 +188,31 @@ QListView#listVariant::item:!alternate:selected:active {
 /* ########## QLINE EDIT ########## */
 
 QLineEdit#LE_TestKeyboard {
-	font: 16px;
+	font: 14px;
 }
 
 QLineEdit#m_passphraseLineEdit, QLineEdit#vgName,
 QLineEdit#m_confirmLineEdit {
-	font: 16px;
+	font: 14px;
 }
 
 QLineEdit#textBoxUserVerifiedPassword, QLineEdit#textBoxVerifiedRootPassword {
-	font: 16px;
+	font: 14px;
 }
 
 QLineEdit#textBoxFullName, QLineEdit#textBoxLoginName, QLineEdit#textBoxHostName,
 QLineEdit#textBoxUserPassword, QLineEdit#textBoxRootPassword {
-	font: 16px;
+	font: 14px;
 }
 
 #textBoxFullName, #textBoxLoginName, #textBoxHostName, #textBoxUserPassword,
 #textBoxRootPassword, #textBoxAutoLogin, #vgName {
-	font: 16px;
+	font: 14px;
 }
 
 #textBoxUserVerifiedPassword, #textBoxVerifiedRootPassword,
 #LE_TestKeyboard, #m_confirmLineEdit, #m_passphraseLineEdit {
-	font: 16px;
+	font: 14px;
 }
 
 /* ##########PARTITION ########## */
@@ -227,91 +227,91 @@ QLineEdit#textBoxUserPassword, QLineEdit#textBoxRootPassword {
 }
 
 #partResizerWidget {
-	font: 16px;
+	font: 14px;
 }
 
 /* ########## PAGE_USERSETUP ########## */
 
  #labelWhatIsYourName {
-	font: 16px;
+	font: 14px;
 }
  #textBoxFullName {
-	font: 16px;
+	font: 14px;
 }
  #labelFullName {
-	font: 16px;
+	font: 14px;
 }
  #labelFullNameError {
-	font: 16px;
+	font: 14px;
 }
  #username_label_2 {
-	font: 16px;
+	font: 14px;
 }
  #textBoxLoginName {
-	font: 16px;
+	font: 14px;
 }
  #labelUsername {
-	font: 16px;
+	font: 14px;
 }
  #labelUsernameError {
-	font: 16px;
+	font: 14px;
 }
  #hostname_label_2 {
-	font: 16px;
+	font: 14px;
 }
  #textBoxHostName {
-	font: 16px;
+	font: 14px;
 }
  #labelHostname {
-	font: 16px;
+	font: 14px;
 }
  #labelHostnameError {
-	font: 16px;
+	font: 14px;
 }
  #password_label_2 {
-	font: 16px;
+	font: 14px;
 }
  #textBoxUserPassword {
-	font: 16px;
+	font: 14px;
 }
  #textBoxUserVerifiedPassword {
-	font: 16px;
+	font: 14px;
 }
  #labelUserPassword {
-	font: 16px;
+	font: 14px;
 }
  #labelUserPasswordError {
-	font: 16px;
+	font: 14px;
 }
  #checkBoxRequireStrongPassword {
-	font: 16px;
+	font: 14px;
 }
  #checkBoxDoAutoLogin {
-	font: 16px;
+	font: 14px;
 }
  #checkBoxReusePassword {
-	font: 16px;
+	font: 14px;
 }
  #labelChooseRootPassword {
-	font: 16px;
+	font: 14px;
 }
  #textBoxRootPassword {
-	font: 16px;
+	font: 14px;
 }
  #textBoxVerifiedRootPassword {
-	font: 16px;
+	font: 14px;
 }
  #labelRootPassword {
-	font: 16px;
+	font: 14px;
 }
  #labelRootPasswordError {
-	font: 16px;
+	font: 14px;
 }
 
 /* ########## COMBO BOX ########## */
 
 QComboBox {
-	font: 16px;
+	font: 14px;
 }
 
 QComboBox::item:selected {
@@ -320,23 +320,23 @@ QComboBox::item:selected {
 }
 
 #mountPointComboBox::drop-down {
-	font: 16px;
+	font: 14px;
 }
 
 /* ########## SPIN BOX ########## */
 
 QSpinBox {
-	font: 16px;
+	font: 14px;
 }
 
 QLineEdit {
-	font: 16px;
+	font: 14px;
 }
 
 /* ########## TREE VIEW ########## */
 
 QTreeView {
-	font: 16px;
+	font: 14px;
 	show-decoration-selected: 0;
 }
 
@@ -376,7 +376,7 @@ QItemSelectionModel::Select {
 /* ########## HEADER VIEW ########## */
 
 QHeaderView::section {
-  font : 16px;
+  font : 14px;
 }
 
 /* ########## PROGRESS BAR ########## */
