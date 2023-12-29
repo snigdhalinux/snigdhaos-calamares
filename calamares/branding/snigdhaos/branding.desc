@@ -127,7 +127,7 @@ strings:
     shortVersion:        2.0
     versionedName:       Snigdha OS Hawkeye
     shortVersionedName:  Hawkeye
-    bootloaderEntryName: snigdhaos
+    bootloaderEntryName: Snigdha OS
 #    productUrl:          https://snigdhalinux.github.io/
 #    supportUrl:          https://snigdhalinux.github.io/
 #    knownIssuesUrl:      https://snigdhalinux.github.io/
