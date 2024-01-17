@@ -123,16 +123,16 @@ navigation: widget
 strings:
     productName:         Snigdha OS
     shortProductName:    Snigdha OS
-    version:             2.0
-    shortVersion:        2.0
-    versionedName:       Snigdha OS Hawkeye
-    shortVersionedName:  Hawkeye
+    version:             3.1.1
+    shortVersion:        3
+    versionedName:       Snigdha OS Arctic
+    shortVersionedName:  Arctic
     bootloaderEntryName: Snigdha OS
-#    productUrl:          https://snigdhalinux.github.io/
-#    supportUrl:          https://snigdhalinux.github.io/
-#    knownIssuesUrl:      https://snigdhalinux.github.io/
-#    releaseNotesUrl:     https://snigdhalinux.github.io/
-#    donateUrl:           https://snigdhalinux.github.io/
+#    productUrl:          https://snigdhaos.org/
+#    supportUrl:          https://snigdhaos.org/
+#    knownIssuesUrl:      https://snigdhaos.org/
+#    releaseNotesUrl:     https://snigdhaos.org/
+#    donateUrl:           https://snigdhaos.org/
 
 # These images are loaded from the branding module directory.
 #
